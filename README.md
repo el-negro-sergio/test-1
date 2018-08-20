@@ -50,7 +50,7 @@ Merci de votre participation ! :heart:
 
 |Title|Category|Featured solution|
 |-----|--------|-----------------|
-|[Array Transformation](#array-transformation)|[Arrays](#arrays)|[Nom de l'auteur de la solution](link-to-solution)|
+|[Array Transformation](#array-transformation)|[Arrays](#arrays)|[Link vers la solution](link-to-solution)|
 
 On devrait p-ê encourager la diversité des auteurs featured, du moment que la solution est OK?
 
