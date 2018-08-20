@@ -1,3 +1,11 @@
+<head>
+<style>
+pre {
+    white-space: pre-wrap;
+}
+</style>
+</head>
+
 <h1 align='center'>Code Daily</h1>
 
 <div align='center'>
@@ -95,8 +103,3 @@ Follow-up: what if you can't use division?
 
 Si tu souhaites nous aider à maintenanir le projet, suis ces [guidelines](docs/maintain.md).
 
-<style>
-pre {
-    white-space: pre-wrap;
-}
-</style>
