@@ -92,5 +92,5 @@ Follow-up: what if you can't use division?
 
 ## Devenir contributeur
 
-Si tu souhaites nous aider à maintenanir le projet, suis ces [guidelines](docs/maintain.md).
+Si tu souhaites nous aider à maintenanir le projet, suis ces [guidelines](docs/MAINTAIN.md).
 
