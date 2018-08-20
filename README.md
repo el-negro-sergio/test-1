@@ -1,7 +1,8 @@
 <h1 align='center'>Code Daily</h1>
 
-
-![alt-text](img/thp-logo.png)
+<div align='center'>
+<img src='img/thp-logo.png' height="120">
+</div>
 
 <p align='center'>Daily coding challenges for the THP family</p>
 
