@@ -45,9 +45,9 @@ Merci de votre participation ! :heart:
 
 ## Latest dailies
 
-|Title|Featured solution|
-|-----|-----------------|
-|[Array Transformation](#array-transformation)|[Nom de l'auteur de la solution](link-to-solution)|
+|Title|Category|Featured solution|
+|-----|--------|-----------------|
+|[Array Transformation](#array-transformation)|[Arrays](#arrays)|[Nom de l'auteur de la solution](link-to-solution)|
 
 On devrait p-ê encourager la diversité des auteurs featured, du moment que la solution est OK?
 
